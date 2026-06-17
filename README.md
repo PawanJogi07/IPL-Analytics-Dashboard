@@ -14,7 +14,8 @@ The dashboard provides insights into team performance, venue statistics, toss im
 
 ## 🖼️ Dashboard Preview
 
-![IPL Dashboard](Images/ipl.png)
+![IPL Dashboard](ipl.png
+)
 
 ---
 
